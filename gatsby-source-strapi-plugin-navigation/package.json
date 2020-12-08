@@ -1,0 +1,33 @@
+{
+  "name": "gatsby-source-strapi-plugin-navigation",
+  "version": "1.0.0",
+  "description": "Gatsby source plugin to query navigations from strapi using the strapi-plugin-navigation API.",
+  "homepage": "https://github.com/EAdeveloper/gatsby-source-strapi-plugin-navigation#readme",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:EAdeveloper/gatsby-source-strapi-plugin-navigation.git"
+  },
+  "author": {
+    "name": "Edward Almanzar",
+    "email": "edward@menteware.com",
+    "url": "https://meneteware.com"
+  },
+  "keywords": [
+    "gatsby",
+    "strapi",
+    "navigation",
+    "gatsby-plugin",
+    "gatsby-source",
+    "strapi-plugin",
+    "strapi-plugin-navigation"
+  ],
+  "dependencies": {
+    "isomorphic-unfetch": "^3.1.0"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "gatsby": "^2.28.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}

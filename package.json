@@ -1,0 +1,25 @@
+{
+  "private": true,
+  "workspaces": [
+    "demo",
+    "gatsby-source-strapi-plugin-navigation"
+  ],
+  "scripts": {
+    "build": "yarn workspace demo build",
+    "clean": "yarn workspace demo clean",
+    "dev": "yarn workspace demo dev"
+  },
+  "release": {
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      [
+        "@semantic-release/npm",
+        {
+          "pkgRoot": "gatsby-source-strapi-plugin-navigation"
+        }
+      ],
+      "@semantic-release/github"
+    ]
+  }
+}
