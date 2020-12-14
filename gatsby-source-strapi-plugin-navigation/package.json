@@ -1,6 +1,6 @@
 {
   "name": "gatsby-source-strapi-plugin-navigation",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Gatsby source plugin to fetch and expose the Navigations as graphQL nodes in gatsby from strapi using the strapi-plugin-navigation API.",
   "homepage": "https://github.com/EAdeveloper/gatsby-source-strapi-plugin-navigation#readme",
   "repository": {
