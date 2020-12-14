@@ -26,4 +26,9 @@ module.exports = {
 };
 ```
 
+## Strapi plugin navigation example
+![strapi-plugin-navigation example](https://raw.githubusercontent.com/EAdeveloper/gatsby-source-strapi-plugin-navigation/main/images/strapi-plugin-navigation.png)
+
+
+## GraphiQL example in gatsby
 ![GraphiQL example in gatsby](https://raw.githubusercontent.com/EAdeveloper/gatsby-source-strapi-plugin-navigation/main/images/strapi-navigation.png)
