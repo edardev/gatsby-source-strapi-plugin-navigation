@@ -25,3 +25,5 @@ module.exports = {
   ],
 };
 ```
+
+![GraphiQL example in gatsby](./images/strapi-navigation.png)
