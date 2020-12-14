@@ -21,7 +21,7 @@ const getAllNavigationID = async (apiBase) => {
     throw `Error fetching ${apiBase} - Server reponse with ${response.status}`;
   }
   const IDs = await navigations.map((menu) => menu.id);
-  console.log(IDs);
+  // console.log(IDs);
   return IDs;
 };
 

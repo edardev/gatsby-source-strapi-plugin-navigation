@@ -1,6 +1,6 @@
 # gatsby-source-strapi-plugin-navigation
 
-Gatsby source plugin to fetch and expose the Navigations as graphQL nodes in gatsby from strapi using the [strapi-plugin-navigation](https://www.npmjs.com/package/strapi-plugin-navigation)
+Gatsby source plugin for pulling documents into Gatsby graphQL nodes from strapi using the [strapi-plugin-navigation](https://www.npmjs.com/package/strapi-plugin-navigation)
  API.
 
 
